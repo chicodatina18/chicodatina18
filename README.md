@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chicodatina18
-- 👀 I’m interested in Radiohead, F1, series, movies, gaming, coding ...
-- 🌱 I’m currently learning Java, HTML, JavaScript, CSS (big noob btw)
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on really easy things
 - 📫 How to reach me, just text me
 
